@@ -121,7 +121,7 @@ int main(int argc,char *argv[])
   // isConnected() can be used to determine the connection state
   if(!cam.waitUntilConnected(6000))
   {
-    std::cout << "could not connect to a camera! --> end programm here";
+    std::cout << "Could not connect to a camera! --> end programm here\n\n";
     return -1;
     // Note: the return will call the destructor of the cam object
     //       the destructor will wait until the conenction thread is ended.

@@ -14,7 +14,7 @@
 ***************************************************************************/
 
 // standard include for testo project defines basic data types from std lib, decl
-#include <ircam2020/irapi/IrapiConfig.h>
+#include <ircam2020/interface/irapi/IrapiConfig.h>
 
 #include <opencv2/core/core.hpp>
 
@@ -221,7 +221,6 @@ namespace irapi
 
     void checkConnection() const;
 
-    std::atomic<bool> m_bConnected;
     std::atomic<bool> m_bConnectLoopActive;
     bool m_bActiveConnectMode;
 

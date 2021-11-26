@@ -39,7 +39,7 @@
 
 #define CMAKE_MAKE_PROGRAM /usr/bin/make
 
-#define IRCAM2020_VERSION          "1.2.0"
+#define IRCAM2020_VERSION          "1.21.5"
 /* #undef IRCAM2020_BUILD_T87X */
 /* #undef IRCAM2020_BUILD_T88X */
 /* #undef IRCAM2020_BUILD_TESTS */

@@ -39,7 +39,7 @@
 
 #define CMAKE_MAKE_PROGRAM C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe
 
-#define IRCAM2020_VERSION          "1.1.18"
+#define IRCAM2020_VERSION          "1.21.5"
 /* #undef IRCAM2020_BUILD_T87X */
 /* #undef IRCAM2020_BUILD_T88X */
 /* #undef IRCAM2020_BUILD_TESTS */

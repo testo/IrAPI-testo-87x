@@ -14,7 +14,7 @@
 ***************************************************************************/
 
 // standard include for testo project defines basic data types from std lib, decl
-#include <ircam2020/irapi/IrapiConfig.h>
+#include <ircam2020/interface/irapi/IrapiConfig.h>
 
 #include <vector>
 #include <string>
